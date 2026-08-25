@@ -62,8 +62,10 @@ recording or identifying people may be restricted where you live.
 - **Stop sending anything**: pause the session, or revoke the camera and
   microphone permissions in system settings. The app still opens.
 - **Delete a memorised person**: Settings → People → the person → delete.
-- **Delete your account**: Settings → Delete account. This removes your sign-in
-  permanently. Memorised people are on your device and are unaffected.
+- **Delete your account**: Settings → Delete account, or see
+  [Delete your Netra account](delete-account/) if you no longer have the app
+  installed. This removes your sign-in permanently. Memorised people are on your
+  device and are unaffected.
 - **Delete everything**: uninstall the app.
 
 ## Children
